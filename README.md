@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Venkat
 - 👀 I’m interested to work on problems at scale
-- 🌱 I’m currently learning Kubernetes
-- ❤️ Love to leetcode, Solutions go here https://github.com/venkatsvpr/Problems_Solved
+- 🌱 I’m currently learning Rust, eBPF
+- ❤️ Love to tinker, leetcode, Solutions go here https://github.com/venkatsvpr/Problems_Solved
 - 📫 How to reach me https://twitter.com/venk8krish
 - Projects
   Go-backend: https://github.com/venkatsvpr/go-backend
