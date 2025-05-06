@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Venkat
 - 👀 I’m interested to work on problems at scale
-- 🌱 I’m currently learning Rust, eBPF
 - ❤️ Love to tinker, leetcode, Solutions go here https://github.com/venkatsvpr/Problems_Solved
 - 📫 How to reach me https://twitter.com/venk8krish
 - Projects
